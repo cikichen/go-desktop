@@ -1,4 +1,4 @@
-module mc-desktop
+module main
 
 go 1.20
 
